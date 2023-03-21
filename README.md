@@ -1,6 +1,12 @@
 # DynaQ-vs-DynaQ-
 DynaQ vs DynaQ+  algorithm comparison
 
+INSTALL***
+https://github.com/jesuspangulo/rl_course
+https://github.com/jesuspangulo/gym_environments
+
+recomended: use python venv 
+
 console:
 for environment "Blocks-v0"
 python lecture7/main.py 1 900
