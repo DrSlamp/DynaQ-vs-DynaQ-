@@ -9,7 +9,7 @@ recomended: use python venv
 
 console:
 for environment "Blocks-v0"
-python lecture7/main.py 1 900
+<b>python lecture7/main.py 1 900</b>
 
 other environment
 python lecture7/main.py 0 45  
