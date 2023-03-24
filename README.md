@@ -12,7 +12,7 @@ for environment "Blocks-v0"
 <b>python lecture7/main.py 1 900</b>
 
 other environment
-python lecture7/main.py 0 45  
+<b>python lecture7/main.py 0 45  </b>
 
 note: 900 and 45 can be changed, experiment yourself.
 
